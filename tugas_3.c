@@ -6,6 +6,5 @@ int main()
     printf("matematika %c dan metode numerik %c\n", 'B', 'D');
     printf("ooooo.....ternyata kuliah itu susah %s\n", "sekali");
     printf("sepertinya %s rajin belajar minimal %d sehari\n", "harus", 8);
-
     return 0;
 }
