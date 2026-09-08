@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
-printf("adik saya bernama %s umurnya %g tahun","rani",2.5);
+    printf("adik saya bernama %s umurnya %g tahun","rani",2.5);
+    return 0;
 }
